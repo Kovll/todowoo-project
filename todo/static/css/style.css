@@ -10,25 +10,18 @@
 }
 
 
-body {
-  background-color: inherit;
-    color: black;
-}
-
 body{
   background-image:  url('https://p4.wallpaperbetter.com/wallpaper/153/66/546/background-lamp-wall-hd-wallpaper-preview.jpg');
   background-size:cover;
-
-
-}
-
-.blend {
-  background-color:black;
 }
 
 
+footer {
+  padding: 35px 20px;
+  background: #666;
+  color: white;
+}
 
-
-body {
-    font-family: 'Lato', sans-serif;
+.nav {
+  color: crimson;
 }
