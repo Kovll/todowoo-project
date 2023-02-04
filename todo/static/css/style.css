@@ -1,10 +1,11 @@
 
-.navb.navbar-nav .nav-linkar {
+.navbar {
   overflow: hidden;
   background-color: #333;
   position: fixed;
   top: 0;
   width: 100%;
+  
 }
 
 .navbar-nav .nav-link {
@@ -21,7 +22,6 @@
   background: #ddd;
   color: black;
 }
-
 
 
 body{
