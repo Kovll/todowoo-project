@@ -1,13 +1,14 @@
 
 .navbar {
-  overflow: hidden;
   position: fixed;
   top: 0;
   width: 100%;
 }
 
-.navbar-nav .nav-link {
-  float: left;
+
+.navbar-nav a {
+  text-indent: 5px;
+  float: right;
   display: block;
   text-align: center;
   padding: 14px 16px;
@@ -17,9 +18,17 @@
 }
 
 
-.navbar-nav .nav-link:hover {
+.navbar-nav a:hover {
   background: #15a643;
 }
+
+
+li a {
+  display: block;
+  margin-left: 20px;
+  width: 120px;
+}
+
 
 body {
   padding: 0;
